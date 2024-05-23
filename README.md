@@ -16,4 +16,4 @@ The google colab notebook I used for LIME explanation generation can be found in
 The detector was trained and tested on the SUN colonoscopy database. This dataset uses permission for use, so no images from the dataset has been included in the repository. If you wish to use the dataset please request permission at http://sundatabase.org.
 
 # Final Report
-The final report is found in KallanDuongFinalReport.
+The final report is found in KallanDuongFinalReport.pdf.
